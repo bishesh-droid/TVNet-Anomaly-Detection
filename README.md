@@ -37,8 +37,6 @@ TVNet-Anomaly-Detection/
 
 ````
 
----
-
 ## ⚙️ Installation & Quick Start
 
 1. **Create a virtual environment**
@@ -46,7 +44,6 @@ TVNet-Anomaly-Detection/
    python -m venv venv
    source venv/bin/activate   # Linux / macOS
    venv\Scripts\activate      # Windows
-````
 
 2. **Install dependencies**
 
@@ -57,7 +54,7 @@ TVNet-Anomaly-Detection/
 3. **Prepare datasets**
    Place your datasets inside the `data/` directory, each containing:
 
-   ```
+   ```bash
    train/
    val/
    test/
@@ -87,7 +84,8 @@ TVNet consists of three major components:
 | **3D Dynamic Convolution Blocks** | Apply time-varying filters for temporal context learning                    |
 | **Task Head**                     | Lightweight linear layer for forecasting, classification, or reconstruction |
 
-### 🏗️ Architecture Flow
+
+## 🏗️ Architecture Flow
 
 ```
 Input Time Series (L×C)
@@ -101,8 +99,6 @@ Residual Fusion & Projection
 Task-Specific Linear Head
 ```
 
----
-
 ## 📊 Experimental Tasks
 
 | Task                         | Description                                               | Dataset Examples                        |
@@ -112,7 +108,6 @@ Task-Specific Linear Head
 | **Imputation**               | Recover missing or corrupted segments                     | Weather, ETT, Electricity               |
 | **Classification**           | Identify pattern or sequence types                        | UEA Multivariate Archive                |
 
----
 
 ## 🧠 Performance Summary
 
@@ -122,7 +117,6 @@ Task-Specific Linear Head
 | MLP (DLinear, MTS-Mixer)          | ⚙️ Moderate       | 80–83%           | Lightweight                    |
 | **TVNet (Ours)**                  | ✅ Fast, CNN-based | **86.8%**        | Balanced efficiency & accuracy |
 
----
 
 ## 🔬 Technical Details
 
@@ -134,7 +128,6 @@ Task-Specific Linear Head
 | **Loss Functions** | MSE, Cross-Entropy, Reconstruction Error |
 | **Complexity**     | Time: O(L·Cₘ²), Space: O(Cₘ² + L·Cₘ)     |
 
----
 
 ## 📈 Example Training Output
 
@@ -143,7 +136,6 @@ Epoch [10/10] | Loss: 0.0087 | F1: 0.868 | Precision: 0.882 | Recall: 0.855
 Model checkpoint saved at: checkpoints/tvnet_anomaly_best.pth
 ```
 
----
 
 ## 📚 Reference
 
@@ -151,7 +143,6 @@ Model checkpoint saved at: checkpoints/tvnet_anomaly_best.pth
 > *TVNet: A Novel Time Series Analysis Method Based on Dynamic Convolution and 3D-Variation.*
 > International Conference on Learning Representations (ICLR 2025).
 
----
 
 ## 🧭 Future Work
 
@@ -159,14 +150,12 @@ Model checkpoint saved at: checkpoints/tvnet_anomaly_best.pth
 * [ ] Large-scale pretraining for general time-series embeddings
 * [ ] Transferable foundation model for cross-domain anomaly detection
 
----
 
 ## 🪪 License
 
 This repository is released under the **MIT License** — free for research and academic use.
 If you use this implementation, please cite the original TVNet paper.
 
----
 
 ## ✨ Acknowledgements
 
