@@ -1,0 +1,28 @@
+# configs/long_term.yaml
+task: "long_term_forecast"
+train_csv: "data/long_term/train.csv"
+val_csv: "data/long_term/val.csv"
+test_csv: "data/long_term/test.csv"
+
+# model
+in_dim: 7
+out_dim: 7
+Cm: 64
+num_blocks: 3
+patch_len: 24
+kernel_size: 3
+
+# training
+input_len: 96
+output_len: 96
+batch_size: 32
+epochs: 10
+lr: 1e-4
+weight_decay: 0.0
+optimizer: "adam"
+
+# runtime
+device: "cuda"
+num_workers: 4
+save_dir: "experiments/checkpoints/long_term"
+log_dir: "experiments/logs/long_term"

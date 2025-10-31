@@ -1,0 +1,10 @@
+{
+  "dataset": "data/short_term/m4_daily_dataset.tsf",
+  "input_len": 36,
+  "pred_len": 24,
+  "epochs": 20,
+  "val_mse": 1.31240831251489e-05,
+  "test_mse": 1.3124084034643602e-05,
+  "test_mae": 0.000438644434325397,
+  "series_used": 200
+}

@@ -1,0 +1,9 @@
+{
+  "dataset": "data/long_term/ETTh1.csv",
+  "input_len": 96,
+  "pred_len": 96,
+  "epochs": 20,
+  "val_mse": 0.8790878057479858,
+  "test_mse": 1.0797762870788574,
+  "test_mae": 0.7631133198738098
+}

@@ -1,0 +1,6 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.tsf filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+data/imputation/electricityloaddiagrams20112014.zip filter=lfs diff=lfs merge=lfs -text
+data/anomaly_detection/train.csv filter=lfs diff=lfs merge=lfs -text
+data/short_term/m4_*.tsf filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,10 @@
+{
+  "dataset": "data/short_term/m4_yearly_dataset.tsf",
+  "input_len": 36,
+  "pred_len": 24,
+  "epochs": 20,
+  "val_mse": 0.0023566167801618576,
+  "test_mse": 0.0023566167801618576,
+  "test_mae": 0.025304213166236877,
+  "series_used": 200
+}

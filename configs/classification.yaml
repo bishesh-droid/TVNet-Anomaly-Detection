@@ -1,0 +1,22 @@
+# configs/classification.yaml
+task: "classification"
+train_dir: "data/classification/train/"  # folders per dataset or csvs
+val_dir: "data/classification/val/"
+test_dir: "data/classification/test/"
+
+in_dim: 144  # adjust per dataset; example for face detection
+Cm: 64
+num_blocks: 3
+patch_len: 1
+kernel_size: 3
+
+input_len: 62
+num_classes: 10
+batch_size: 32
+epochs: 30
+lr: 1e-3
+
+device: "cuda"
+num_workers: 4
+save_dir: "experiments/checkpoints/classification"
+log_dir: "experiments/logs/classification"

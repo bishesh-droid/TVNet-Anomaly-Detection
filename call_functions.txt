@@ -1,0 +1,37 @@
+python -m tasks.long_term_forecast \
+  --dataset_path data/long_term/ETTh1.csv \
+  --input_len 96 \
+  --pred_len 96 \
+  --epochs 20 \
+  --batch_size 32 \
+  --lr 1e-4 \
+  --weight_decay 1e-5 \
+  --Cm 64 \
+  --num_blocks 3
+
+python -m tasks.short_term_forecast \
+  --dataset_path data/short_term/m4_daily_dataset.tsf \
+  --input_len 36 \
+  --pred_len 24 \
+  --epochs 20 \
+  --batch_size 64 \
+  --lr 1e-4 \
+  --weight_decay 1e-5 \
+  --Cm 32 \
+  --num_blocks 2
+ 
+python -m tasks.classification \
+  --train_file data/classification/EthanolConcentrationDimension1_TRAIN.arff \
+  --test_file data/classification/EthanolConcentrationDimension1_TEST.arff \
+  --dataset_name EthanolConcentration \
+  --epochs 30 \
+  --batch_size 32 \
+  --lr 1e-4 \
+  --Cm 32 \
+  --num_blocks 2 \
+  --patch_len 8
+
+
+python -m tasks.anomaly_detection
+
+python -m tasks.imputation   --dataset_folder data/imputation   --dataset_name ETTh2   --window_len 96   --mask_ratio 0.25   --epochs 10   --batch_size 64   --lr 1e-3

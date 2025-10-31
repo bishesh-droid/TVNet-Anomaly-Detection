@@ -1,0 +1,25 @@
+# configs/imputation.yaml
+task: "imputation"
+train_csv: "data/imputation/train.csv"
+val_csv: "data/imputation/val.csv"
+test_csv: "data/imputation/test.csv"
+
+in_dim: 7
+out_dim: 7
+Cm: 64
+num_blocks: 3
+patch_len: 1
+kernel_size: 3
+
+input_len: 96
+output_len: 96  # number of timesteps to impute per window
+
+batch_size: 16
+epochs: 10
+lr: 1e-3
+
+device: "cuda"
+num_workers: 4
+save_dir: "experiments/checkpoints/imputation"
+log_dir: "experiments/logs/imputation"
+mask_ratios: [0.125, 0.25, 0.375, 0.5]  # used for synthetic masking during experiments

@@ -1,0 +1,32 @@
+=== TVNet Anomaly Detection ===
+Epoch 1/10 - Train: 48605479.223161, Val: 51055931.475549
+Epoch 2/10 - Train: 4080197.982939, Val: 496092.291904
+Epoch 3/10 - Train: 21006.931585, Val: 63.548239
+Epoch 4/10 - Train: 12.535717, Val: 110.773668
+Epoch 5/10 - Train: 6.696259, Val: 78.491258
+Epoch 6/10 - Train: 5.109770, Val: 59.909358
+Epoch 7/10 - Train: 4.482812, Val: 49.675368
+Epoch 8/10 - Train: 3.567221, Val: 41.877434
+Epoch 9/10 - Train: 3.114275, Val: 36.459549
+Epoch 10/10 - Train: 3.035882, Val: 29.014695
+
+Best Threshold = 292.387390
+Precision=0.6246  Recall=1.0000  F1=0.7689
+✅ Saved plots and results.
+=== TVNet Anomaly Detection ===
+Epoch 1/10 - Train: 48605479.223161, Val: 51055931.475549
+Epoch 2/10 - Train: 4080197.982939, Val: 496092.291904
+Epoch 3/10 - Train: 21006.931585, Val: 63.548239
+=== TVNet Anomaly Detection ===
+Epoch 1/10 - Train: 48605479.223161, Val: 51055931.475549
+=== TVNet Anomaly Detection ===
+Epoch 1/10 - Train: 48605479.223161, Val: 51055931.475549
+Epoch 2/10 - Train: 4080197.982939, Val: 496092.291904
+Epoch 3/10 - Train: 21006.931585, Val: 63.548239
+Epoch 4/10 - Train: 12.535717, Val: 110.773668
+Epoch 5/10 - Train: 6.696259, Val: 78.491258
+Epoch 6/10 - Train: 5.109770, Val: 59.909358
+Epoch 7/10 - Train: 4.482812, Val: 49.675368
+Epoch 8/10 - Train: 3.567221, Val: 41.877434
+Epoch 9/10 - Train: 3.114275, Val: 36.459549
+Epoch 10/10 - Train: 3.035882, Val: 29.014695

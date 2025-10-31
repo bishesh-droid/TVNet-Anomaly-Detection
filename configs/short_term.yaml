@@ -1,0 +1,28 @@
+# configs/short_term.yaml
+task: "short_term_forecast"
+train_csv: "data/short_term/train.csv"
+val_csv: "data/short_term/val.csv"
+test_csv: "data/short_term/test.csv"
+
+# model
+in_dim: 1
+out_dim: 1
+Cm: 64
+num_blocks: 3
+patch_len: 8
+kernel_size: 3
+
+# training
+input_len: 48
+output_len: 48
+batch_size: 32
+epochs: 10
+lr: 1e-3
+weight_decay: 0.0
+optimizer: "adam"
+
+# runtime
+device: "cuda"
+num_workers: 4
+save_dir: "experiments/checkpoints/short_term"
+log_dir: "experiments/logs/short_term"

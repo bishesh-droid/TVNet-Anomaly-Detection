@@ -1,0 +1,121 @@
+[2025-10-27 17:06:53][INFO] Loaded data/long_term/ETTh1.csv shape=(17420, 8)
+[2025-10-27 17:06:53][INFO] Train/Val/Test sizes: 11763, 1311, 3053
+[2025-10-27 17:07:59][INFO] Loaded data/long_term/ETTh2.csv shape=(17420, 8)
+[2025-10-27 17:07:59][INFO] Train/Val/Test sizes: 11763, 1311, 3053
+[2025-10-27 17:10:17][INFO] Loaded data/long_term/ETTh2.csv shape=(17420, 8)
+[2025-10-27 17:10:17][INFO] Train/Val/Test sizes: 11763, 1311, 3053
+[2025-10-27 17:10:29][INFO] [Epoch 1] Train=0.457421  ValMSE=2.422762
+[2025-10-27 17:10:29][INFO] Saved best checkpoint → experiments/checkpoints/long_term/tvnet_forecast_best_ETTh2.csv.pth
+[2025-10-27 17:10:41][INFO] [Epoch 2] Train=0.314746  ValMSE=1.983218
+[2025-10-27 17:10:41][INFO] Saved best checkpoint → experiments/checkpoints/long_term/tvnet_forecast_best_ETTh2.csv.pth
+[2025-10-27 17:10:53][INFO] [Epoch 3] Train=0.277492  ValMSE=2.144179
+[2025-10-27 17:11:04][INFO] [Epoch 4] Train=0.251350  ValMSE=1.783447
+[2025-10-27 17:11:04][INFO] Saved best checkpoint → experiments/checkpoints/long_term/tvnet_forecast_best_ETTh2.csv.pth
+[2025-10-27 17:11:16][INFO] [Epoch 5] Train=0.232551  ValMSE=1.814920
+[2025-10-27 17:11:28][INFO] [Epoch 6] Train=0.217596  ValMSE=2.808393
+[2025-10-27 17:11:40][INFO] [Epoch 7] Train=0.204143  ValMSE=1.974140
+[2025-10-27 17:11:52][INFO] [Epoch 8] Train=0.190738  ValMSE=1.778674
+[2025-10-27 17:11:52][INFO] Saved best checkpoint → experiments/checkpoints/long_term/tvnet_forecast_best_ETTh2.csv.pth
+[2025-10-27 17:12:04][INFO] [Epoch 9] Train=0.177896  ValMSE=2.617859
+[2025-10-27 17:12:15][INFO] [Epoch 10] Train=0.171545  ValMSE=2.469057
+[2025-10-27 17:12:17][INFO] Test  MSE=0.759697  MAE=0.646611
+[2025-10-27 17:12:17][INFO] Done ✅
+[2025-10-27 19:46:59][INFO] Loaded data/long_term/ETTh1.csv shape=(17420, 8)
+[2025-10-27 19:46:59][INFO] Train/Val/Test sizes: 12003, 1551, 3293
+[2025-10-27 19:47:15][INFO] [Epoch 1] Train=0.905950  ValMSE=0.952473
+[2025-10-27 19:47:15][INFO] Saved best checkpoint → experiments/checkpoints/long_term/tvnet_forecast_best_ETTh1.csv.pth
+[2025-10-27 19:47:29][INFO] [Epoch 2] Train=0.766990  ValMSE=0.916260
+[2025-10-27 19:47:29][INFO] Saved best checkpoint → experiments/checkpoints/long_term/tvnet_forecast_best_ETTh1.csv.pth
+[2025-10-27 19:47:43][INFO] [Epoch 3] Train=0.742176  ValMSE=0.909182
+[2025-10-27 19:47:43][INFO] Saved best checkpoint → experiments/checkpoints/long_term/tvnet_forecast_best_ETTh1.csv.pth
+[2025-10-27 19:47:58][INFO] [Epoch 4] Train=0.724195  ValMSE=0.894389
+[2025-10-27 19:47:58][INFO] Saved best checkpoint → experiments/checkpoints/long_term/tvnet_forecast_best_ETTh1.csv.pth
+[2025-10-27 19:48:14][INFO] [Epoch 5] Train=0.709409  ValMSE=0.898026
+[2025-10-27 19:48:28][INFO] [Epoch 6] Train=0.698035  ValMSE=0.896771
+[2025-10-27 19:48:43][INFO] [Epoch 7] Train=0.688503  ValMSE=0.881252
+[2025-10-27 19:48:43][INFO] Saved best checkpoint → experiments/checkpoints/long_term/tvnet_forecast_best_ETTh1.csv.pth
+[2025-10-27 19:48:58][INFO] [Epoch 8] Train=0.680673  ValMSE=0.881698
+[2025-10-27 19:49:14][INFO] [Epoch 9] Train=0.675432  ValMSE=0.906229
+[2025-10-27 19:49:28][INFO] [Epoch 10] Train=0.670260  ValMSE=0.887453
+[2025-10-27 19:49:41][INFO] [Epoch 11] Train=0.665200  ValMSE=0.893486
+[2025-10-27 19:49:54][INFO] [Epoch 12] Train=0.661460  ValMSE=0.898529
+[2025-10-27 19:50:08][INFO] [Epoch 13] Train=0.658594  ValMSE=0.896916
+[2025-10-27 19:50:24][INFO] [Epoch 14] Train=0.655908  ValMSE=0.882031
+[2025-10-27 19:50:39][INFO] [Epoch 15] Train=0.652664  ValMSE=0.881771
+[2025-10-27 19:50:53][INFO] [Epoch 16] Train=0.650102  ValMSE=0.887877
+[2025-10-27 19:51:07][INFO] [Epoch 17] Train=0.648385  ValMSE=0.891585
+[2025-10-27 19:51:18][INFO] [Epoch 18] Train=0.646843  ValMSE=0.888057
+[2025-10-27 19:51:24][INFO] [Epoch 19] Train=0.644223  ValMSE=0.879088
+[2025-10-27 19:51:24][INFO] Saved best checkpoint → experiments/checkpoints/long_term/tvnet_forecast_best_ETTh1.csv.pth
+[2025-10-27 19:51:31][INFO] [Epoch 20] Train=0.644271  ValMSE=0.894699
+[2025-10-27 19:51:31][INFO] Test  MSE=1.079776  MAE=0.763113
+[2025-10-27 19:51:31][INFO] Done ✅
+[2025-10-27 20:01:11][INFO] Loaded data/long_term/ETTm1.csv shape=(69680, 8)
+[2025-10-27 20:01:11][INFO] Train/Val/Test sizes: 48585, 6777, 13745
+[2025-10-27 20:01:42][INFO] [Epoch 1] Train=0.724749  ValMSE=0.825079
+[2025-10-27 20:01:42][INFO] Saved best checkpoint → experiments/checkpoints/long_term/tvnet_forecast_best_ETTm1.csv.pth
+[2025-10-27 20:02:28][INFO] [Epoch 2] Train=0.657269  ValMSE=0.829588
+[2025-10-27 20:03:24][INFO] [Epoch 3] Train=0.641543  ValMSE=0.830623
+[2025-10-27 20:04:18][INFO] [Epoch 4] Train=0.630503  ValMSE=0.834838
+[2025-10-27 20:05:10][INFO] [Epoch 5] Train=0.622771  ValMSE=0.828048
+[2025-10-27 20:05:59][INFO] [Epoch 6] Train=0.616588  ValMSE=0.830427
+[2025-10-28 11:49:16][INFO] Loaded data/long_term/ETTh1.csv shape=(17420, 8)
+[2025-10-28 11:49:16][INFO] Train/Val/Test sizes: 12003, 1551, 3293
+[2025-10-28 11:49:23][INFO] [Epoch 1] Train=0.905950  ValMSE=0.952473
+[2025-10-28 11:49:23][INFO] Saved best checkpoint → experiments/checkpoints/long_term/tvnet_forecast_best_ETTh1.csv.pth
+[2025-10-28 11:49:28][INFO] [Epoch 2] Train=0.766990  ValMSE=0.916260
+[2025-10-28 11:49:28][INFO] Saved best checkpoint → experiments/checkpoints/long_term/tvnet_forecast_best_ETTh1.csv.pth
+[2025-10-28 11:49:34][INFO] [Epoch 3] Train=0.742176  ValMSE=0.909182
+[2025-10-28 11:49:34][INFO] Saved best checkpoint → experiments/checkpoints/long_term/tvnet_forecast_best_ETTh1.csv.pth
+[2025-10-28 11:49:40][INFO] [Epoch 4] Train=0.724195  ValMSE=0.894389
+[2025-10-28 11:49:40][INFO] Saved best checkpoint → experiments/checkpoints/long_term/tvnet_forecast_best_ETTh1.csv.pth
+[2025-10-28 11:49:46][INFO] [Epoch 5] Train=0.709409  ValMSE=0.898026
+[2025-10-28 11:49:51][INFO] [Epoch 6] Train=0.698035  ValMSE=0.896771
+[2025-10-28 11:49:57][INFO] [Epoch 7] Train=0.688503  ValMSE=0.881252
+[2025-10-28 11:49:57][INFO] Saved best checkpoint → experiments/checkpoints/long_term/tvnet_forecast_best_ETTh1.csv.pth
+[2025-10-28 11:50:03][INFO] [Epoch 8] Train=0.680673  ValMSE=0.881698
+[2025-10-28 11:50:09][INFO] [Epoch 9] Train=0.675432  ValMSE=0.906229
+[2025-10-28 11:50:14][INFO] [Epoch 10] Train=0.670260  ValMSE=0.887453
+[2025-10-28 11:50:20][INFO] [Epoch 11] Train=0.665200  ValMSE=0.893486
+[2025-10-28 11:50:26][INFO] [Epoch 12] Train=0.661460  ValMSE=0.898529
+[2025-10-28 11:50:31][INFO] [Epoch 13] Train=0.658594  ValMSE=0.896916
+[2025-10-28 11:50:37][INFO] [Epoch 14] Train=0.655908  ValMSE=0.882031
+[2025-10-28 11:50:43][INFO] [Epoch 15] Train=0.652664  ValMSE=0.881771
+[2025-10-28 11:50:49][INFO] [Epoch 16] Train=0.650102  ValMSE=0.887877
+[2025-10-28 11:50:54][INFO] [Epoch 17] Train=0.648385  ValMSE=0.891585
+[2025-10-28 11:51:00][INFO] [Epoch 18] Train=0.646843  ValMSE=0.888057
+[2025-10-28 11:51:06][INFO] [Epoch 19] Train=0.644223  ValMSE=0.879088
+[2025-10-28 11:51:06][INFO] Saved best checkpoint → experiments/checkpoints/long_term/tvnet_forecast_best_ETTh1.csv.pth
+[2025-10-28 11:51:12][INFO] [Epoch 20] Train=0.644271  ValMSE=0.894699
+[2025-10-28 11:51:12][INFO] Test  MSE=1.079776  MAE=0.763113
+[2025-10-28 11:51:12][INFO] Done ✅
+[2025-10-28 12:38:59][INFO] Loaded data/long_term/ETTh1.csv shape=(17420, 8)
+[2025-10-28 12:38:59][INFO] Train/Val/Test sizes: 12003, 1551, 3293
+[2025-10-28 12:39:06][INFO] [Epoch 1] Train=0.905950  ValMSE=0.952473
+[2025-10-28 12:39:06][INFO] Saved best checkpoint → experiments/checkpoints/long_term/tvnet_forecast_best_ETTh1.csv.pth
+[2025-10-28 12:39:12][INFO] [Epoch 2] Train=0.766990  ValMSE=0.916260
+[2025-10-28 12:39:12][INFO] Saved best checkpoint → experiments/checkpoints/long_term/tvnet_forecast_best_ETTh1.csv.pth
+[2025-10-28 12:39:18][INFO] [Epoch 3] Train=0.742176  ValMSE=0.909182
+[2025-10-28 12:39:18][INFO] Saved best checkpoint → experiments/checkpoints/long_term/tvnet_forecast_best_ETTh1.csv.pth
+[2025-10-28 12:39:24][INFO] [Epoch 4] Train=0.724195  ValMSE=0.894389
+[2025-10-28 12:39:24][INFO] Saved best checkpoint → experiments/checkpoints/long_term/tvnet_forecast_best_ETTh1.csv.pth
+[2025-10-28 12:39:30][INFO] [Epoch 5] Train=0.709409  ValMSE=0.898026
+[2025-10-28 12:39:36][INFO] [Epoch 6] Train=0.698035  ValMSE=0.896771
+[2025-10-28 12:39:42][INFO] [Epoch 7] Train=0.688503  ValMSE=0.881252
+[2025-10-28 12:39:42][INFO] Saved best checkpoint → experiments/checkpoints/long_term/tvnet_forecast_best_ETTh1.csv.pth
+[2025-10-28 12:39:48][INFO] [Epoch 8] Train=0.680673  ValMSE=0.881698
+[2025-10-28 12:39:54][INFO] [Epoch 9] Train=0.675432  ValMSE=0.906229
+[2025-10-28 12:40:00][INFO] [Epoch 10] Train=0.670260  ValMSE=0.887453
+[2025-10-28 12:40:06][INFO] [Epoch 11] Train=0.665200  ValMSE=0.893486
+[2025-10-28 12:40:12][INFO] [Epoch 12] Train=0.661460  ValMSE=0.898529
+[2025-10-28 12:40:18][INFO] [Epoch 13] Train=0.658594  ValMSE=0.896916
+[2025-10-28 12:40:24][INFO] [Epoch 14] Train=0.655908  ValMSE=0.882031
+[2025-10-28 12:40:30][INFO] [Epoch 15] Train=0.652664  ValMSE=0.881771
+[2025-10-28 12:40:36][INFO] [Epoch 16] Train=0.650102  ValMSE=0.887877
+[2025-10-28 12:40:42][INFO] [Epoch 17] Train=0.648385  ValMSE=0.891585
+[2025-10-28 12:40:48][INFO] [Epoch 18] Train=0.646843  ValMSE=0.888057
+[2025-10-28 12:40:54][INFO] [Epoch 19] Train=0.644223  ValMSE=0.879088
+[2025-10-28 12:40:54][INFO] Saved best checkpoint → experiments/checkpoints/long_term/tvnet_forecast_best_ETTh1.csv.pth
+[2025-10-28 12:41:00][INFO] [Epoch 20] Train=0.644271  ValMSE=0.894699
+[2025-10-28 12:41:00][INFO] Test  MSE=1.079776  MAE=0.763113
+[2025-10-28 12:41:00][INFO] Done ✅

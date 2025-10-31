@@ -1,0 +1,33 @@
+[2025-10-27 18:38:48][INFO] Loaded dataset ETTh1.csv with shape (17420, 7)
+[2025-10-27 18:39:34][INFO] Loaded dataset ETTh1.csv with shape (17420, 7)
+[2025-10-27 18:44:17][INFO] Loaded dataset ETTh1.csv with shape (17420, 7)
+[2025-10-27 18:44:34][INFO] Loaded dataset ETTm2.csv with shape (69680, 7)
+[2025-10-27 18:47:24][INFO] Loaded dataset ETTh1.csv with shape (17420, 7)
+[2025-10-27 18:47:24][INFO] Model initialized: in_dim=7, out_dim=7, patch_len=8
+[2025-10-27 18:49:52][INFO] Loaded dataset ETTh1.csv with shape (17420, 7)
+[2025-10-27 18:49:53][INFO] Model initialized: in_dim=7, out_dim=7, patch_len=8
+[2025-10-27 18:53:41][INFO] Loaded dataset ETTh1.csv with shape (17420, 7)
+[2025-10-27 18:54:58][INFO] Loaded dataset ETTh1.csv with shape (17420, 7)
+[2025-10-27 18:54:58][INFO] Model initialized: in_dim=7, out_dim=7, patch_len=8
+[2025-10-27 18:58:11][INFO] Loaded dataset ETTh1.csv with shape (17420, 7)
+[2025-10-27 18:58:11][INFO] Model initialized: in_dim=7, out_dim=7, patch_len=8
+[2025-10-27 18:59:27][INFO] Loaded dataset ETTh1.csv with shape (17420, 7)
+[2025-10-27 18:59:27][INFO] Model initialized: in_dim=7, out_dim=7, patch_len=8
+[2025-10-27 19:02:58][INFO] Loaded dataset ETTh1.csv with shape (17420, 7)
+[2025-10-27 19:02:58][INFO] Model initialized: in_dim=7, out_dim=7, patch_len=8
+[2025-10-27 19:03:33][INFO] Loaded dataset ETTh1.csv with shape (17420, 7)
+[2025-10-27 19:03:33][INFO] Model initialized: in_dim=7, out_dim=7, patch_len=8
+[2025-10-27 19:04:15][INFO] Loaded dataset ETTh1.csv with shape (17420, 7)
+[2025-10-27 19:04:15][INFO] Model initialized: in_dim=7, out_dim=7, patch_len=8
+[2025-10-27 19:05:36][INFO] Loaded dataset ETTh1.csv with shape (17420, 7)
+[2025-10-27 19:05:36][INFO] Model initialized: in_dim=7, out_dim=7, patch_len=8
+[2025-10-27 19:06:43][INFO] Loaded dataset ETTh1.csv with shape (17420, 7)
+[2025-10-27 19:06:43][INFO] Model initialized: in_dim=7, out_dim=7, patch_len=8
+[2025-10-27 19:08:41][INFO] Loaded dataset ETTh1.csv with shape (17420, 7)
+[2025-10-27 19:08:41][INFO] Model initialized: in_dim=7, out_dim=7, patch_len=8
+[2025-10-27 19:11:29][INFO] Loaded dataset ETTh1.csv with shape (17420, 7)
+[2025-10-27 19:11:29][INFO] Model initialized: in_dim=7, out_dim=7, patch_len=8
+[2025-10-27 19:11:37][INFO] Loaded dataset ETTh1.csv with shape (17420, 7)
+[2025-10-27 19:11:37][INFO] Model initialized: in_dim=7, out_dim=7, patch_len=8
+[2025-10-27 19:12:10][INFO] Loaded dataset ETTh1.csv with shape (17420, 7)
+[2025-10-27 19:12:10][INFO] Model initialized: in_dim=7, out_dim=7, patch_len=8

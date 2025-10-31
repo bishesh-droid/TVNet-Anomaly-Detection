@@ -1,0 +1,444 @@
+[2025-10-27 17:23:52][INFO] Loaded data/short_term/m4_daily_dataset.tsf shape=(9933, 4227)
+[2025-10-27 17:23:52][INFO] Train/Val/Test sizes: 6894, 934, 1928
+[2025-10-27 17:25:03][INFO] [Epoch 1] Train=nan ValMSE=nan
+[2025-10-27 17:26:11][INFO] [Epoch 2] Train=nan ValMSE=nan
+[2025-10-27 17:33:12][INFO] Loaded data/short_term/m4_daily_dataset.tsf shape=(9933, 4227)
+[2025-10-27 17:33:13][INFO] Train/Val/Test sizes: 6894, 934, 1928
+[2025-10-27 17:34:34][INFO] [Epoch 1] Train=0.225130 ValMSE=111.653481
+[2025-10-27 17:34:34][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 17:35:52][INFO] [Epoch 2] Train=0.084764 ValMSE=109.602524
+[2025-10-27 17:35:52][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 17:37:06][INFO] [Epoch 3] Train=0.060598 ValMSE=110.577126
+[2025-10-27 17:38:19][INFO] [Epoch 4] Train=0.055771 ValMSE=114.057487
+[2025-10-27 17:39:33][INFO] [Epoch 5] Train=0.046035 ValMSE=116.639519
+[2025-10-27 17:40:46][INFO] [Epoch 6] Train=0.037898 ValMSE=123.282974
+[2025-10-27 17:41:59][INFO] [Epoch 7] Train=0.034855 ValMSE=131.599564
+[2025-10-27 17:43:12][INFO] [Epoch 8] Train=0.031173 ValMSE=129.666107
+[2025-10-27 17:44:26][INFO] [Epoch 9] Train=0.027155 ValMSE=170.959122
+[2025-10-27 17:45:40][INFO] [Epoch 10] Train=0.025825 ValMSE=471.046021
+[2025-10-27 17:46:53][INFO] [Epoch 11] Train=0.025573 ValMSE=908.070129
+[2025-10-27 17:54:03][INFO] Loaded data/short_term/m4_daily_dataset.tsf shape=(9933, 4227)
+[2025-10-27 17:54:03][INFO] Train/Val/Test sizes: 6894, 934, 1928
+[2025-10-27 17:56:33][INFO] Loaded data/short_term/m4_daily_dataset.tsf shape=(9933, 100)
+[2025-10-27 17:56:33][INFO] Train/Val/Test sizes: 6894, 934, 1928
+[2025-10-27 17:56:37][INFO] [Epoch 1] Train=0.205497 ValMSE=0.017219
+[2025-10-27 17:56:37][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 17:56:39][INFO] [Epoch 2] Train=0.112311 ValMSE=0.010354
+[2025-10-27 17:56:39][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 17:56:42][INFO] [Epoch 3] Train=0.093615 ValMSE=0.006244
+[2025-10-27 17:56:42][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 17:56:45][INFO] [Epoch 4] Train=0.083849 ValMSE=0.003872
+[2025-10-27 17:56:45][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 17:56:47][INFO] [Epoch 5] Train=0.078784 ValMSE=0.002570
+[2025-10-27 17:56:47][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 17:56:50][INFO] [Epoch 6] Train=0.074114 ValMSE=0.001904
+[2025-10-27 17:56:50][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 17:56:53][INFO] [Epoch 7] Train=0.069593 ValMSE=0.001395
+[2025-10-27 17:56:53][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 17:56:56][INFO] [Epoch 8] Train=0.066066 ValMSE=0.001079
+[2025-10-27 17:56:56][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 17:56:58][INFO] [Epoch 9] Train=0.061761 ValMSE=0.001088
+[2025-10-27 17:57:01][INFO] [Epoch 10] Train=0.057604 ValMSE=0.000828
+[2025-10-27 17:57:01][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 17:57:04][INFO] [Epoch 11] Train=0.053912 ValMSE=0.000760
+[2025-10-27 17:57:04][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 17:57:07][INFO] [Epoch 12] Train=0.050587 ValMSE=0.000872
+[2025-10-27 17:57:09][INFO] [Epoch 13] Train=0.047886 ValMSE=0.000591
+[2025-10-27 17:57:09][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 17:57:12][INFO] [Epoch 14] Train=0.045348 ValMSE=0.000538
+[2025-10-27 17:57:12][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 17:57:15][INFO] [Epoch 15] Train=0.043237 ValMSE=0.000498
+[2025-10-27 17:57:15][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 17:57:17][INFO] [Epoch 16] Train=0.041371 ValMSE=0.000501
+[2025-10-27 17:57:20][INFO] [Epoch 17] Train=0.039245 ValMSE=0.000387
+[2025-10-27 17:57:20][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 17:57:23][INFO] [Epoch 18] Train=0.037368 ValMSE=0.000326
+[2025-10-27 17:57:23][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 17:57:26][INFO] [Epoch 19] Train=0.036056 ValMSE=0.000308
+[2025-10-27 17:57:26][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 17:57:29][INFO] [Epoch 20] Train=0.034707 ValMSE=0.000253
+[2025-10-27 17:57:29][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 17:57:29][INFO] Test MSE=0.000253 MAE=0.012915
+[2025-10-27 17:57:29][INFO] ✅ Done!
+[2025-10-27 18:01:48][INFO] Loaded data/short_term/m4_daily_dataset.tsf shape=(9933, 4227)
+[2025-10-27 18:01:48][INFO] Full dataset mode enabled. Using all series.
+[2025-10-27 18:01:49][INFO] Train/Val/Test sizes: 6894, 934, 1928
+[2025-10-27 18:02:32][INFO] [Epoch 1] Train=0.432161 ValMSE=151067.515625
+[2025-10-27 18:02:32][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 18:03:26][INFO] Loaded data/short_term/m4_daily_dataset.tsf shape=(9933, 4227)
+[2025-10-27 18:03:26][INFO] Dataset too large (4227 series). Using first 200 for faster training.
+[2025-10-27 18:03:26][INFO] Train/Val/Test sizes: 6894, 934, 1928
+[2025-10-27 18:03:30][INFO] [Epoch 1] Train=0.260126 ValMSE=0.020266
+[2025-10-27 18:03:30][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 18:03:34][INFO] [Epoch 2] Train=0.169031 ValMSE=0.012018
+[2025-10-27 18:03:34][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 18:03:39][INFO] [Epoch 3] Train=0.149794 ValMSE=0.007209
+[2025-10-27 18:03:39][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 18:03:44][INFO] [Epoch 4] Train=0.140139 ValMSE=0.004509
+[2025-10-27 18:03:44][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 18:03:48][INFO] [Epoch 5] Train=0.134081 ValMSE=0.002910
+[2025-10-27 18:03:48][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 18:03:53][INFO] [Epoch 6] Train=0.127930 ValMSE=0.002205
+[2025-10-27 18:03:53][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 18:03:58][INFO] [Epoch 7] Train=0.120898 ValMSE=0.001948
+[2025-10-27 18:03:58][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 18:04:02][INFO] [Epoch 8] Train=0.111749 ValMSE=0.001975
+[2025-10-27 18:04:06][INFO] [Epoch 9] Train=0.101858 ValMSE=0.001983
+[2025-10-27 18:04:10][INFO] [Epoch 10] Train=0.093050 ValMSE=0.001691
+[2025-10-27 18:04:10][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 18:04:11][INFO] Test MSE=0.001691 MAE=0.032428
+[2025-10-27 18:04:11][INFO] ✅ Done!
+[2025-10-27 18:06:39][INFO] Loaded data/short_term/m4_daily_dataset.tsf shape=(9933, 4227)
+[2025-10-27 18:06:39][INFO] Full dataset mode enabled. Using all series.
+[2025-10-27 18:06:40][INFO] Train/Val/Test sizes: 6894, 934, 1928
+[2025-10-27 18:07:25][INFO] [Epoch 1] Train=0.432161 ValMSE=151067.515625
+[2025-10-27 18:07:25][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 18:08:07][INFO] [Epoch 2] Train=0.359359 ValMSE=115033.632812
+[2025-10-27 18:08:07][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 18:08:48][INFO] [Epoch 3] Train=0.333073 ValMSE=64516.097656
+[2025-10-27 18:08:48][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 18:09:30][INFO] [Epoch 4] Train=0.274984 ValMSE=5109.738281
+[2025-10-27 18:09:30][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 18:10:11][INFO] [Epoch 5] Train=0.231660 ValMSE=1017.347900
+[2025-10-27 18:10:11][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 18:10:53][INFO] [Epoch 6] Train=0.212870 ValMSE=688.010071
+[2025-10-27 18:10:53][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 18:11:35][INFO] [Epoch 7] Train=0.184943 ValMSE=522.101868
+[2025-10-27 18:11:35][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 18:12:15][INFO] [Epoch 8] Train=0.152306 ValMSE=217.731400
+[2025-10-27 18:12:15][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 18:12:57][INFO] [Epoch 9] Train=0.129463 ValMSE=175.771439
+[2025-10-27 18:12:57][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 18:13:39][INFO] [Epoch 10] Train=0.116739 ValMSE=149.472778
+[2025-10-27 18:13:39][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 18:14:21][INFO] [Epoch 11] Train=0.108780 ValMSE=137.149368
+[2025-10-27 18:14:21][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 18:15:04][INFO] [Epoch 12] Train=0.103052 ValMSE=130.074875
+[2025-10-27 18:15:04][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 18:15:46][INFO] [Epoch 13] Train=0.099302 ValMSE=129.749207
+[2025-10-27 18:15:46][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 18:16:27][INFO] [Epoch 14] Train=0.096333 ValMSE=126.578705
+[2025-10-27 18:16:27][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 18:17:08][INFO] [Epoch 15] Train=0.093558 ValMSE=127.105904
+[2025-10-27 18:17:50][INFO] [Epoch 16] Train=0.090039 ValMSE=129.505844
+[2025-10-27 18:18:31][INFO] [Epoch 17] Train=0.085555 ValMSE=127.422813
+[2025-10-27 18:19:13][INFO] [Epoch 18] Train=0.081708 ValMSE=127.103622
+[2025-10-27 18:19:54][INFO] [Epoch 19] Train=0.079316 ValMSE=124.827690
+[2025-10-27 18:19:54][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 18:20:36][INFO] [Epoch 20] Train=0.076893 ValMSE=126.111435
+[2025-10-27 18:20:45][INFO] Test MSE=0.004354 MAE=0.016154
+[2025-10-27 18:20:45][INFO] ✅ Done!
+[2025-10-27 19:44:40][INFO] Loaded data/short_term/m4_daily_dataset.tsf shape=(9933, 4227)
+[2025-10-27 19:44:40][INFO] Dataset too large (4227 series). Using first 200 for faster training.
+[2025-10-27 19:44:40][INFO] Train/Val/Test sizes: 6894, 934, 1928
+[2025-10-27 19:44:47][INFO] [Epoch 1] Train=0.250617 ValMSE=0.003907
+[2025-10-27 19:44:47][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 19:44:53][INFO] [Epoch 2] Train=0.141589 ValMSE=0.002131
+[2025-10-27 19:44:53][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 19:44:59][INFO] [Epoch 3] Train=0.131504 ValMSE=0.001326
+[2025-10-27 19:44:59][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 19:45:04][INFO] [Epoch 4] Train=0.124803 ValMSE=0.000918
+[2025-10-27 19:45:04][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 19:45:10][INFO] [Epoch 5] Train=0.118623 ValMSE=0.000693
+[2025-10-27 19:45:10][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 19:45:15][INFO] [Epoch 6] Train=0.113348 ValMSE=0.000528
+[2025-10-27 19:45:15][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 19:45:21][INFO] [Epoch 7] Train=0.109029 ValMSE=0.000308
+[2025-10-27 19:45:21][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 19:45:26][INFO] [Epoch 8] Train=0.105535 ValMSE=0.000231
+[2025-10-27 19:45:26][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 19:45:33][INFO] [Epoch 9] Train=0.102595 ValMSE=0.000162
+[2025-10-27 19:45:33][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 19:45:39][INFO] [Epoch 10] Train=0.099344 ValMSE=0.000116
+[2025-10-27 19:45:39][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 19:45:45][INFO] [Epoch 11] Train=0.096051 ValMSE=0.000095
+[2025-10-27 19:45:45][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 19:45:50][INFO] [Epoch 12] Train=0.093520 ValMSE=0.000064
+[2025-10-27 19:45:50][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 19:45:56][INFO] [Epoch 13] Train=0.091638 ValMSE=0.000048
+[2025-10-27 19:45:56][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 19:46:01][INFO] [Epoch 14] Train=0.090068 ValMSE=0.000038
+[2025-10-27 19:46:01][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 19:46:06][INFO] [Epoch 15] Train=0.088628 ValMSE=0.000031
+[2025-10-27 19:46:06][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 19:46:12][INFO] [Epoch 16] Train=0.087433 ValMSE=0.000032
+[2025-10-27 19:46:18][INFO] [Epoch 17] Train=0.086353 ValMSE=0.000025
+[2025-10-27 19:46:18][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 19:46:23][INFO] [Epoch 18] Train=0.085447 ValMSE=0.000035
+[2025-10-27 19:46:28][INFO] [Epoch 19] Train=0.084030 ValMSE=0.000017
+[2025-10-27 19:46:28][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 19:46:32][INFO] [Epoch 20] Train=0.083004 ValMSE=0.000013
+[2025-10-27 19:46:32][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-27 19:46:33][INFO] Test MSE=0.000013 MAE=0.000439
+[2025-10-27 19:46:33][INFO] ✅ Done!
+[2025-10-27 19:57:47][INFO] Loaded data/short_term/m4_yearly_dataset.tsf shape=(841, 23000)
+[2025-10-27 19:57:47][INFO] Dataset too large (23000 series). Using first 200 for faster training.
+[2025-10-27 19:57:47][INFO] Train/Val/Test sizes: 529, 25, 110
+[2025-10-27 19:57:47][INFO] [Epoch 1] Train=0.878976 ValMSE=0.004544
+[2025-10-27 19:57:47][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_yearly_dataset.tsf.pth
+[2025-10-27 19:57:48][INFO] [Epoch 2] Train=0.594394 ValMSE=0.004484
+[2025-10-27 19:57:48][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_yearly_dataset.tsf.pth
+[2025-10-27 19:57:48][INFO] [Epoch 3] Train=0.592113 ValMSE=0.004411
+[2025-10-27 19:57:48][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_yearly_dataset.tsf.pth
+[2025-10-27 19:57:49][INFO] [Epoch 4] Train=0.319139 ValMSE=0.004306
+[2025-10-27 19:57:49][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_yearly_dataset.tsf.pth
+[2025-10-27 19:57:49][INFO] [Epoch 5] Train=0.272806 ValMSE=0.004167
+[2025-10-27 19:57:49][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_yearly_dataset.tsf.pth
+[2025-10-27 19:57:49][INFO] [Epoch 6] Train=0.248919 ValMSE=0.004066
+[2025-10-27 19:57:49][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_yearly_dataset.tsf.pth
+[2025-10-27 19:57:50][INFO] [Epoch 7] Train=0.167337 ValMSE=0.003915
+[2025-10-27 19:57:50][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_yearly_dataset.tsf.pth
+[2025-10-27 19:57:50][INFO] [Epoch 8] Train=0.120208 ValMSE=0.003842
+[2025-10-27 19:57:50][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_yearly_dataset.tsf.pth
+[2025-10-27 19:57:51][INFO] [Epoch 9] Train=0.117484 ValMSE=0.003676
+[2025-10-27 19:57:51][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_yearly_dataset.tsf.pth
+[2025-10-27 19:57:51][INFO] [Epoch 10] Train=0.086161 ValMSE=0.003566
+[2025-10-27 19:57:51][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_yearly_dataset.tsf.pth
+[2025-10-27 19:57:51][INFO] [Epoch 11] Train=0.071546 ValMSE=0.003377
+[2025-10-27 19:57:51][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_yearly_dataset.tsf.pth
+[2025-10-27 19:57:51][INFO] [Epoch 12] Train=0.068178 ValMSE=0.003247
+[2025-10-27 19:57:51][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_yearly_dataset.tsf.pth
+[2025-10-27 19:57:52][INFO] [Epoch 13] Train=0.065211 ValMSE=0.003082
+[2025-10-27 19:57:52][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_yearly_dataset.tsf.pth
+[2025-10-27 19:57:52][INFO] [Epoch 14] Train=0.059888 ValMSE=0.003002
+[2025-10-27 19:57:52][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_yearly_dataset.tsf.pth
+[2025-10-27 19:57:52][INFO] [Epoch 15] Train=0.047828 ValMSE=0.002910
+[2025-10-27 19:57:52][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_yearly_dataset.tsf.pth
+[2025-10-27 19:57:53][INFO] [Epoch 16] Train=0.053595 ValMSE=0.002778
+[2025-10-27 19:57:53][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_yearly_dataset.tsf.pth
+[2025-10-27 19:57:53][INFO] [Epoch 17] Train=0.048672 ValMSE=0.002636
+[2025-10-27 19:57:53][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_yearly_dataset.tsf.pth
+[2025-10-27 19:57:53][INFO] [Epoch 18] Train=0.042029 ValMSE=0.002529
+[2025-10-27 19:57:53][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_yearly_dataset.tsf.pth
+[2025-10-27 19:57:54][INFO] [Epoch 19] Train=0.038502 ValMSE=0.002450
+[2025-10-27 19:57:54][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_yearly_dataset.tsf.pth
+[2025-10-27 19:57:54][INFO] [Epoch 20] Train=0.048787 ValMSE=0.002357
+[2025-10-27 19:57:54][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_yearly_dataset.tsf.pth
+[2025-10-27 19:57:54][INFO] Test MSE=0.002357 MAE=0.025304
+[2025-10-27 19:57:54][INFO] ✅ Done!
+[2025-10-27 19:58:11][INFO] Loaded data/short_term/m4_quarterly_dataset.tsf shape=(874, 24000)
+[2025-10-27 19:58:11][INFO] Dataset too large (24000 series). Using first 200 for faster training.
+[2025-10-27 19:58:11][INFO] Train/Val/Test sizes: 552, 29, 116
+[2025-10-27 19:58:12][INFO] [Epoch 1] Train=0.608717 ValMSE=0.004521
+[2025-10-27 19:58:12][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_quarterly_dataset.tsf.pth
+[2025-10-27 19:58:12][INFO] [Epoch 2] Train=0.371435 ValMSE=0.004591
+[2025-10-27 19:58:12][INFO] [Epoch 3] Train=0.277808 ValMSE=0.004833
+[2025-10-27 19:58:13][INFO] [Epoch 4] Train=0.204228 ValMSE=0.005160
+[2025-10-27 19:58:13][INFO] [Epoch 5] Train=0.170990 ValMSE=0.005384
+[2025-10-27 19:58:13][INFO] [Epoch 6] Train=0.155422 ValMSE=0.005395
+[2025-10-27 19:58:13][INFO] [Epoch 7] Train=0.144396 ValMSE=0.005254
+[2025-10-27 19:58:14][INFO] [Epoch 8] Train=0.135903 ValMSE=0.005309
+[2025-10-27 19:58:14][INFO] [Epoch 9] Train=0.130678 ValMSE=0.005141
+[2025-10-27 19:58:14][INFO] [Epoch 10] Train=0.129042 ValMSE=0.005255
+[2025-10-27 19:58:15][INFO] [Epoch 11] Train=0.125720 ValMSE=0.005088
+[2025-10-27 19:58:15][INFO] [Epoch 12] Train=0.123318 ValMSE=0.005030
+[2025-10-27 19:58:15][INFO] [Epoch 13] Train=0.122511 ValMSE=0.004955
+[2025-10-27 19:58:16][INFO] [Epoch 14] Train=0.124023 ValMSE=0.004972
+[2025-10-27 19:58:16][INFO] [Epoch 15] Train=0.122479 ValMSE=0.004857
+[2025-10-27 19:58:16][INFO] [Epoch 16] Train=0.122106 ValMSE=0.004782
+[2025-10-27 19:58:17][INFO] [Epoch 17] Train=0.119779 ValMSE=0.004762
+[2025-10-27 19:58:17][INFO] [Epoch 18] Train=0.120049 ValMSE=0.004792
+[2025-10-27 19:58:17][INFO] [Epoch 19] Train=0.118614 ValMSE=0.004742
+[2025-10-27 19:58:17][INFO] [Epoch 20] Train=0.119245 ValMSE=0.004765
+[2025-10-27 19:58:18][INFO] Test MSE=0.004521 MAE=0.040312
+[2025-10-27 19:58:18][INFO] ✅ Done!
+[2025-10-27 19:58:41][INFO] Loaded data/short_term/m4_monthly_dataset.tsf shape=(2812, 48000)
+[2025-10-27 19:58:41][INFO] Dataset too large (48000 series). Using first 200 for faster training.
+[2025-10-27 19:58:41][INFO] Train/Val/Test sizes: 1909, 222, 504
+[2025-10-27 19:58:42][INFO] [Epoch 1] Train=0.427318 ValMSE=0.005285
+[2025-10-27 19:58:42][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_monthly_dataset.tsf.pth
+[2025-10-27 19:58:43][INFO] [Epoch 2] Train=0.250142 ValMSE=0.005093
+[2025-10-27 19:58:43][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_monthly_dataset.tsf.pth
+[2025-10-27 19:58:44][INFO] [Epoch 3] Train=0.207596 ValMSE=0.004031
+[2025-10-27 19:58:44][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_monthly_dataset.tsf.pth
+[2025-10-27 19:58:45][INFO] [Epoch 4] Train=0.191942 ValMSE=0.003398
+[2025-10-27 19:58:45][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_monthly_dataset.tsf.pth
+[2025-10-27 19:58:46][INFO] [Epoch 5] Train=0.183958 ValMSE=0.003000
+[2025-10-27 19:58:46][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_monthly_dataset.tsf.pth
+[2025-10-27 19:58:47][INFO] [Epoch 6] Train=0.178235 ValMSE=0.002720
+[2025-10-27 19:58:47][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_monthly_dataset.tsf.pth
+[2025-10-27 19:58:48][INFO] [Epoch 7] Train=0.174450 ValMSE=0.002396
+[2025-10-27 19:58:48][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_monthly_dataset.tsf.pth
+[2025-10-27 19:58:49][INFO] [Epoch 8] Train=0.170437 ValMSE=0.002292
+[2025-10-27 19:58:49][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_monthly_dataset.tsf.pth
+[2025-10-27 19:58:50][INFO] [Epoch 9] Train=0.167204 ValMSE=0.002118
+[2025-10-27 19:58:50][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_monthly_dataset.tsf.pth
+[2025-10-27 19:58:53][INFO] [Epoch 10] Train=0.163427 ValMSE=0.001974
+[2025-10-27 19:58:53][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_monthly_dataset.tsf.pth
+[2025-10-27 19:58:55][INFO] [Epoch 11] Train=0.160128 ValMSE=0.001782
+[2025-10-27 19:58:55][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_monthly_dataset.tsf.pth
+[2025-10-27 19:58:57][INFO] [Epoch 12] Train=0.157142 ValMSE=0.001654
+[2025-10-27 19:58:57][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_monthly_dataset.tsf.pth
+[2025-10-27 19:58:59][INFO] [Epoch 13] Train=0.154112 ValMSE=0.001485
+[2025-10-27 19:58:59][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_monthly_dataset.tsf.pth
+[2025-10-27 19:59:01][INFO] [Epoch 14] Train=0.151467 ValMSE=0.001345
+[2025-10-27 19:59:01][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_monthly_dataset.tsf.pth
+[2025-10-27 19:59:03][INFO] [Epoch 15] Train=0.148521 ValMSE=0.001191
+[2025-10-27 19:59:03][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_monthly_dataset.tsf.pth
+[2025-10-27 19:59:05][INFO] [Epoch 16] Train=0.146497 ValMSE=0.001104
+[2025-10-27 19:59:05][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_monthly_dataset.tsf.pth
+[2025-10-27 19:59:06][INFO] [Epoch 17] Train=0.144255 ValMSE=0.001014
+[2025-10-27 19:59:06][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_monthly_dataset.tsf.pth
+[2025-10-27 19:59:08][INFO] [Epoch 18] Train=0.142388 ValMSE=0.000903
+[2025-10-27 19:59:08][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_monthly_dataset.tsf.pth
+[2025-10-27 19:59:10][INFO] [Epoch 19] Train=0.141081 ValMSE=0.000805
+[2025-10-27 19:59:10][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_monthly_dataset.tsf.pth
+[2025-10-27 19:59:11][INFO] [Epoch 20] Train=0.138852 ValMSE=0.000721
+[2025-10-27 19:59:11][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_monthly_dataset.tsf.pth
+[2025-10-27 19:59:12][INFO] Test MSE=0.000721 MAE=0.010465
+[2025-10-27 19:59:12][INFO] ✅ Done!
+[2025-10-27 20:00:17][INFO] Loaded data/short_term/m4_weekly_dataset.tsf shape=(2610, 359)
+[2025-10-27 20:00:17][INFO] Dataset too large (359 series). Using first 200 for faster training.
+[2025-10-27 20:00:17][INFO] Train/Val/Test sizes: 1767, 203, 463
+[2025-10-27 20:00:19][INFO] [Epoch 1] Train=0.723672 ValMSE=4.176265
+[2025-10-27 20:00:19][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_weekly_dataset.tsf.pth
+[2025-10-27 20:00:21][INFO] [Epoch 2] Train=0.649561 ValMSE=34.010406
+[2025-10-27 20:00:22][INFO] [Epoch 3] Train=0.622041 ValMSE=45.021130
+[2025-10-27 20:00:23][INFO] [Epoch 4] Train=0.602799 ValMSE=31.789738
+[2025-10-27 20:00:25][INFO] [Epoch 5] Train=0.590072 ValMSE=23.838985
+[2025-10-27 20:00:26][INFO] [Epoch 6] Train=0.582690 ValMSE=17.358686
+[2025-10-27 20:00:27][INFO] [Epoch 7] Train=0.574553 ValMSE=12.796470
+[2025-10-27 20:00:28][INFO] [Epoch 8] Train=0.568873 ValMSE=10.676833
+[2025-10-27 20:00:30][INFO] [Epoch 9] Train=0.565531 ValMSE=8.721648
+[2025-10-27 20:00:31][INFO] [Epoch 10] Train=0.561662 ValMSE=8.328059
+[2025-10-27 20:00:32][INFO] [Epoch 11] Train=0.559016 ValMSE=7.977928
+[2025-10-27 20:00:34][INFO] [Epoch 12] Train=0.557669 ValMSE=7.690351
+[2025-10-27 20:00:35][INFO] [Epoch 13] Train=0.556281 ValMSE=7.069425
+[2025-10-27 20:00:37][INFO] [Epoch 14] Train=0.553518 ValMSE=6.505888
+[2025-10-27 20:00:38][INFO] [Epoch 15] Train=0.553418 ValMSE=6.247993
+[2025-10-27 20:00:39][INFO] [Epoch 16] Train=0.551664 ValMSE=6.140456
+[2025-10-27 20:00:40][INFO] [Epoch 17] Train=0.550527 ValMSE=6.127403
+[2025-10-27 20:00:42][INFO] [Epoch 18] Train=0.551624 ValMSE=6.180594
+[2025-10-27 20:00:43][INFO] [Epoch 19] Train=0.551849 ValMSE=5.925733
+[2025-10-27 20:00:44][INFO] [Epoch 20] Train=0.551778 ValMSE=6.226483
+[2025-10-27 20:00:45][INFO] Test MSE=5.803123 MAE=0.697256
+[2025-10-27 20:00:45][INFO] ✅ Done!
+[2025-10-28 11:47:06][INFO] Loaded data/short_term/m4_daily_dataset.tsf shape=(9933, 4227)
+[2025-10-28 11:47:06][INFO] Dataset too large (4227 series). Using first 200 for faster training.
+[2025-10-28 11:47:06][INFO] Train/Val/Test sizes: 6894, 934, 1928
+[2025-10-28 11:47:10][INFO] [Epoch 1] Train=0.250617 ValMSE=0.003907
+[2025-10-28 11:47:10][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 11:47:13][INFO] [Epoch 2] Train=0.141589 ValMSE=0.002131
+[2025-10-28 11:47:13][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 11:47:15][INFO] [Epoch 3] Train=0.131504 ValMSE=0.001326
+[2025-10-28 11:47:15][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 11:47:18][INFO] [Epoch 4] Train=0.124803 ValMSE=0.000918
+[2025-10-28 11:47:18][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 11:47:21][INFO] [Epoch 5] Train=0.118623 ValMSE=0.000693
+[2025-10-28 11:47:21][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 11:47:23][INFO] [Epoch 6] Train=0.113348 ValMSE=0.000528
+[2025-10-28 11:47:23][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 11:47:26][INFO] [Epoch 7] Train=0.109029 ValMSE=0.000308
+[2025-10-28 11:47:26][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 11:47:29][INFO] [Epoch 8] Train=0.105535 ValMSE=0.000231
+[2025-10-28 11:47:29][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 11:47:32][INFO] [Epoch 9] Train=0.102595 ValMSE=0.000162
+[2025-10-28 11:47:32][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 11:47:35][INFO] [Epoch 10] Train=0.099344 ValMSE=0.000116
+[2025-10-28 11:47:35][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 11:47:37][INFO] [Epoch 11] Train=0.096051 ValMSE=0.000095
+[2025-10-28 11:47:37][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 11:47:40][INFO] [Epoch 12] Train=0.093520 ValMSE=0.000064
+[2025-10-28 11:47:40][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 11:47:43][INFO] [Epoch 13] Train=0.091638 ValMSE=0.000048
+[2025-10-28 11:47:43][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 11:47:45][INFO] [Epoch 14] Train=0.090068 ValMSE=0.000038
+[2025-10-28 11:47:45][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 11:47:48][INFO] [Epoch 15] Train=0.088628 ValMSE=0.000031
+[2025-10-28 11:47:48][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 11:47:51][INFO] [Epoch 16] Train=0.087433 ValMSE=0.000032
+[2025-10-28 11:47:54][INFO] [Epoch 17] Train=0.086353 ValMSE=0.000025
+[2025-10-28 11:47:54][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 11:47:57][INFO] [Epoch 18] Train=0.085447 ValMSE=0.000035
+[2025-10-28 11:47:59][INFO] [Epoch 19] Train=0.084030 ValMSE=0.000017
+[2025-10-28 11:47:59][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 11:48:02][INFO] [Epoch 20] Train=0.083004 ValMSE=0.000013
+[2025-10-28 11:48:02][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 11:48:03][INFO] Test MSE=0.000013 MAE=0.000439
+[2025-10-28 11:48:03][INFO] ✅ Done!
+[2025-10-28 12:32:54][INFO] Loaded data/short_term/m4_daily_dataset.tsf shape=(9933, 4227)
+[2025-10-28 12:32:54][INFO] Dataset too large (4227 series). Using first 200 for faster training.
+[2025-10-28 12:32:54][INFO] Train/Val/Test sizes: 6894, 934, 1928
+[2025-10-28 12:32:57][INFO] [Epoch 1] Train=0.250617 ValMSE=0.003907
+[2025-10-28 12:32:57][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:33:00][INFO] [Epoch 2] Train=0.141589 ValMSE=0.002131
+[2025-10-28 12:33:00][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:33:03][INFO] [Epoch 3] Train=0.131504 ValMSE=0.001326
+[2025-10-28 12:33:03][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:33:06][INFO] [Epoch 4] Train=0.124803 ValMSE=0.000918
+[2025-10-28 12:33:06][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:33:08][INFO] [Epoch 5] Train=0.118623 ValMSE=0.000693
+[2025-10-28 12:33:08][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:33:11][INFO] [Epoch 6] Train=0.113348 ValMSE=0.000528
+[2025-10-28 12:33:11][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:33:14][INFO] [Epoch 7] Train=0.109029 ValMSE=0.000308
+[2025-10-28 12:33:14][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:33:16][INFO] [Epoch 8] Train=0.105535 ValMSE=0.000231
+[2025-10-28 12:33:16][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:33:19][INFO] [Epoch 9] Train=0.102595 ValMSE=0.000162
+[2025-10-28 12:33:19][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:33:22][INFO] [Epoch 10] Train=0.099344 ValMSE=0.000116
+[2025-10-28 12:33:22][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:33:24][INFO] [Epoch 11] Train=0.096051 ValMSE=0.000095
+[2025-10-28 12:33:24][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:33:27][INFO] [Epoch 12] Train=0.093520 ValMSE=0.000064
+[2025-10-28 12:33:27][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:33:30][INFO] [Epoch 13] Train=0.091638 ValMSE=0.000048
+[2025-10-28 12:33:30][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:33:32][INFO] [Epoch 14] Train=0.090068 ValMSE=0.000038
+[2025-10-28 12:33:32][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:33:35][INFO] [Epoch 15] Train=0.088628 ValMSE=0.000031
+[2025-10-28 12:33:35][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:33:38][INFO] [Epoch 16] Train=0.087433 ValMSE=0.000032
+[2025-10-28 12:33:40][INFO] [Epoch 17] Train=0.086353 ValMSE=0.000025
+[2025-10-28 12:33:40][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:33:43][INFO] [Epoch 18] Train=0.085447 ValMSE=0.000035
+[2025-10-28 12:33:46][INFO] [Epoch 19] Train=0.084030 ValMSE=0.000017
+[2025-10-28 12:33:46][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:33:48][INFO] [Epoch 20] Train=0.083004 ValMSE=0.000013
+[2025-10-28 12:33:48][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:33:49][INFO] Test MSE=0.000013 MAE=0.000439
+[2025-10-28 12:33:49][INFO] ✅ Done!
+[2025-10-28 12:34:10][INFO] Loaded data/short_term/m4_daily_dataset.tsf shape=(9933, 4227)
+[2025-10-28 12:34:10][INFO] Dataset too large (4227 series). Using first 200 for faster training.
+[2025-10-28 12:34:10][INFO] Train/Val/Test sizes: 6894, 934, 1928
+[2025-10-28 12:34:14][INFO] [Epoch 1] Train=0.250617 ValMSE=0.003907
+[2025-10-28 12:34:14][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:34:17][INFO] [Epoch 2] Train=0.141589 ValMSE=0.002131
+[2025-10-28 12:34:17][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:34:20][INFO] [Epoch 3] Train=0.131504 ValMSE=0.001326
+[2025-10-28 12:34:20][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:34:22][INFO] [Epoch 4] Train=0.124803 ValMSE=0.000918
+[2025-10-28 12:34:22][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:34:25][INFO] [Epoch 5] Train=0.118623 ValMSE=0.000693
+[2025-10-28 12:34:25][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:34:28][INFO] [Epoch 6] Train=0.113348 ValMSE=0.000528
+[2025-10-28 12:34:28][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:34:31][INFO] [Epoch 7] Train=0.109029 ValMSE=0.000308
+[2025-10-28 12:34:31][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:34:34][INFO] [Epoch 8] Train=0.105535 ValMSE=0.000231
+[2025-10-28 12:34:34][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:34:36][INFO] [Epoch 9] Train=0.102595 ValMSE=0.000162
+[2025-10-28 12:34:36][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:34:39][INFO] [Epoch 10] Train=0.099344 ValMSE=0.000116
+[2025-10-28 12:34:39][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:34:42][INFO] [Epoch 11] Train=0.096051 ValMSE=0.000095
+[2025-10-28 12:34:42][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:34:45][INFO] [Epoch 12] Train=0.093520 ValMSE=0.000064
+[2025-10-28 12:34:45][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:34:47][INFO] [Epoch 13] Train=0.091638 ValMSE=0.000048
+[2025-10-28 12:34:47][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:34:50][INFO] [Epoch 14] Train=0.090068 ValMSE=0.000038
+[2025-10-28 12:34:50][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:34:53][INFO] [Epoch 15] Train=0.088628 ValMSE=0.000031
+[2025-10-28 12:34:53][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:34:55][INFO] [Epoch 16] Train=0.087433 ValMSE=0.000032
+[2025-10-28 12:34:58][INFO] [Epoch 17] Train=0.086353 ValMSE=0.000025
+[2025-10-28 12:34:58][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:35:01][INFO] [Epoch 18] Train=0.085447 ValMSE=0.000035
+[2025-10-28 12:35:04][INFO] [Epoch 19] Train=0.084030 ValMSE=0.000017
+[2025-10-28 12:35:04][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:35:07][INFO] [Epoch 20] Train=0.083004 ValMSE=0.000013
+[2025-10-28 12:35:07][INFO] Saved best model → experiments/checkpoints/short_term/tvnet_short_best_m4_daily_dataset.tsf.pth
+[2025-10-28 12:35:07][INFO] Test MSE=0.000013 MAE=0.000439
+[2025-10-28 12:35:07][INFO] ✅ Done!

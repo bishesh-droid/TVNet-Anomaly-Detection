@@ -1,0 +1,23 @@
+# configs/anomaly.yaml
+task: "anomaly_detection"
+train_csv: "data/anomaly/train.csv"
+val_csv: "data/anomaly/val.csv"
+test_csv: "data/anomaly/test.csv"
+
+in_dim: 38
+Cm: 64
+num_blocks: 5
+patch_len: 8
+kernel_size: 3
+
+input_len: 100
+output_len: 100
+batch_size: 128
+epochs: 10
+lr: 8e-4
+
+device: "cuda"
+num_workers: 8
+save_dir: "experiments/checkpoints/anomaly"
+log_dir: "experiments/logs/anomaly"
+reconstruction_threshold: null  # computed from validation set

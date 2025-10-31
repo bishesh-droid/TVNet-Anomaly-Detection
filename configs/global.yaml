@@ -1,0 +1,7 @@
+# configs/global.yaml
+project_name: "TVNet-Project"
+seed: 1111
+device: "cuda"   # or "cpu"
+num_workers: 4
+save_root: "experiments"
+log_level: "INFO"
