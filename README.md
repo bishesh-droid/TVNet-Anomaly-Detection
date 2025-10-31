@@ -1,4 +1,3 @@
-```markdown
 # 🧠 TVNet-Anomaly-Detection
 [![Paper](https://img.shields.io/badge/ICLR_2025-TVNet-blueviolet)](https://openreview.net/forum?id=TVNet-ICLR2025)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)]()
@@ -7,8 +6,6 @@
 
 Implementation scaffold for **TVNet** — *A Novel Time Series Analysis Method Based on Dynamic Convolution and 3D-Variation* (ICLR 2025).  
 This repository adapts the official research into a **practical anomaly detection framework**, enabling dynamic, 3D-aware temporal modeling for real-world multivariate signals.
-
----
 
 ## 📘 Overview
 
@@ -21,8 +18,6 @@ It leverages **dynamic convolutions** inspired by video understanding, enabling 
 - **Residual 3D Architecture**: Deep yet efficient modeling of global and local variations  
 - **Cross-Variable Learning**: Captures correlations among variables for robust anomaly detection  
 - **Unified Framework**: Supports forecasting, imputation, classification, and anomaly tasks  
-
----
 
 ## 🗂️ Repository Structure
 
